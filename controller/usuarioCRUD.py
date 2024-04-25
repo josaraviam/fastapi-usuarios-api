@@ -50,3 +50,5 @@ async def delete_usuario(email:str):
     if deleted_usuario:
         return deleted_usuario
     raise HTTPException(status_code=404, detail="Usuario no encontrado")
+
+#Testing my push
