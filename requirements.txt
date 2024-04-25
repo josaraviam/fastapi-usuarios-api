@@ -6,5 +6,5 @@ uvicorn
 gunicorn
 websockets
 wrapt
-uvloop
+#uvloop
 python-dotenv
